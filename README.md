@@ -8,6 +8,7 @@ To build consistency and improve my Machine Learning skills by practicing daily.
 # 📅 Progress
 
 Day 35 - Handling Missing Data (Part 1) 
+Day 36 - Handling Missing Numerical Data (Part 2)
 
 
 
