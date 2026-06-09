@@ -21,6 +21,11 @@ Day 40 - Multivariate-Imputation-by-chained-equation for missing values
 
 Day 41 - Outliers
 
+Day 42 - Outliers Detection and Removal using Z - Score
+
+Day 43 - Outliers Detection and Removal using IQR
+
+
 
 
 ## 🛠️ Tools & Technologies
