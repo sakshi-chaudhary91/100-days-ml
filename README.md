@@ -17,6 +17,10 @@ Day 38 - Missing Indicator / Random Sample Imputation
 
 Day 39 - KNN Imputer / Multivariate Imputation
 
+Day 40 - Multivariate-Imputation-by-chained-equation for missing values
+
+Day 41 - Outliers
+
 
 
 ## 🛠️ Tools & Technologies
