@@ -25,6 +25,10 @@ Day 42 - Outliers Detection and Removal using Z - Score
 
 Day 43 - Outliers Detection and Removal using IQR
 
+Day 44 - Outlier Detection using Percentile method
+
+Day 45 - Feature-Construction | Feature-spliting
+
 
 
 
