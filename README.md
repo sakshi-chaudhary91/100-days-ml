@@ -27,7 +27,7 @@ Day 43 - Outliers Detection and Removal using IQR
 
 Day 44 - Outlier Detection using Percentile method
 
-Day 45 - Feature-Construction | Feature-spliting
+Day 45 - Feature-Construction | Feature-spliting 
 
 
 
