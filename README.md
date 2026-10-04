@@ -29,6 +29,10 @@ Day 44 - Outlier Detection using Percentile method
 
 Day 45 - Feature-Construction | Feature-spliting 
 
+Simple Linear Regression Class
+
+Making our own Linear Regression Class
+
 
 
 
