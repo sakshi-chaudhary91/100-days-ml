@@ -35,6 +35,8 @@ Making our own Linear Regression Class
 
 Regression Metrices
 
+Scratch code of Linear Regression
+
 
 
 
