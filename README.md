@@ -37,6 +37,8 @@ Regression Metrices
 
 Scratch code of Linear Regression
 
+Multiple Linear Regression
+
 
 
 
