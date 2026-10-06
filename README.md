@@ -33,6 +33,8 @@ Simple Linear Regression Class
 
 Making our own Linear Regression Class
 
+Regression Metrices
+
 
 
 
