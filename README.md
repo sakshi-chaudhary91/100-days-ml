@@ -3,7 +3,7 @@
 This repository contains my daily progress for the **100 Days of Machine Learning Challenge**. Starting from Day 35.
 
 📌 Goal:  
-To build consistency and improve my Machine Learning skills by practicing daily.
+To build consistency and improve my Machine Learning skills by practicing daily. 
 
 # 📅 Progress
 
