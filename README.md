@@ -39,6 +39,10 @@ Scratch code of Linear Regression
 
 Multiple Linear Regression
 
+Gradient Descent
+
+Gradient Descent own Class
+
 
 
 
