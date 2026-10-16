@@ -43,6 +43,8 @@ Gradient Descent
 
 Gradient Descent own Class
 
+Batch Gradient Descent
+
 
 
 
