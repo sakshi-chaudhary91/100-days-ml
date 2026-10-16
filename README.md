@@ -11,7 +11,7 @@ Day 35 - Handling Missing Data (Part 1)
 
 Day 36 - Handling Missing Numerical Data (Part 2)    
 
-Day 37 - Handling Missing Categorical Data (Part 3)
+Day 37 - Handling Missing Categorical Data (Part 3) 
 
 Day 38 - Missing Indicator / Random Sample Imputation  
 
