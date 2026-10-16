@@ -47,6 +47,8 @@ Batch Gradient Descent
 
 Mini Batch Gradient Descent
 
+Stochastic Gradient Descent
+
 
 
 
