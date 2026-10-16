@@ -45,6 +45,8 @@ Gradient Descent own Class
 
 Batch Gradient Descent
 
+Mini Batch Gradient Descent
+
 
 
 
