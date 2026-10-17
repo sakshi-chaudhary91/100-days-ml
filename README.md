@@ -49,6 +49,8 @@ Mini Batch Gradient Descent
 
 Stochastic Gradient Descent
 
+Polynomial Regression
+
 
 
 
